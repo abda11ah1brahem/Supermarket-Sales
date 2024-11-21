@@ -16,3 +16,6 @@ Branches and Gender Insights: Segmented sales analysis based on branch location 
 Product Line Performance: A detailed view of sales by product categories.
 
 This dashboard aims to help supermarket managers identify trends, optimize inventory, and tailor marketing strategies based on customer and product insights.
+
+![Final Dashboard ](https://github.com/user-attachments/assets/4d339e81-4e20-481b-81c6-4236a8e8820a)
+
